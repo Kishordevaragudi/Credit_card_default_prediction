@@ -63,7 +63,7 @@ month, 2=payment delay for two months, … 8=payment delay for eight months,9=pa
 
 ## **Project Demo Video**
 
-https://user-images.githubusercontent.com/102470567/198002636-afd17bb5-262c-43de-8e98-5dc5b151bfa1.mp4
+https://github.com/Kishordevaragudi/Credit_card_default_prediction/blob/main/Project%20Demo%20Video/Credit%20card%20default%20prediction.mp4
 
 
 
