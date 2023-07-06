@@ -8,7 +8,7 @@ logging.basicConfig(level = logging.INFO, filename = 'model_logs.log', filemode 
 app = Flask(__name__)
 
 #Import pickle model file 
-model = pickle.load(open('credit_card_default.pkl','rb'))
+model = pickle.load(open('credit_card_default.pkl1','rb'))
 
 # Home Page for the flask app
 @app.route('/', methods = ['GET'])
@@ -194,7 +194,7 @@ def predict():
                 , pay_amt5, pay_amt6]])
 
 # Converting the categorical values into intergers
-    if predict == 0:
+    if predict == 0: 
         output = 'Not Default'
     else:
         output = 'Default'
