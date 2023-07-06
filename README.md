@@ -61,9 +61,7 @@ month, 2=payment delay for two months, … 8=payment delay for eight months,9=pa
 
 [Click here for DataSet](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset)
 
-## **Project Demo Video**
 
-https://user-images.githubusercontent.com/102470567/198002636-afd17bb5-262c-43de-8e98-5dc5b151bfa1.mp4
 
 
 
