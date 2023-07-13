@@ -93,7 +93,7 @@ def home():
             st.write("Prediction: {}".format(output))
         else:
             output = 'The credit card holder WILL NOT BE DEFAULTER in the next month'
-            st.writ('Prediction:{}'.format(output))
+            st.write('Prediction:{}'.format(output))
 
 
 # Driver Code
