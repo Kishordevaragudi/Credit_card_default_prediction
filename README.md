@@ -65,7 +65,7 @@ month, 2=payment delay for two months, … 8=payment delay for eight months,9=pa
 #### https://creditcarddefaultprediction-wl56ez2reqd.streamlit.app/
 
 #### Output
-
+![Screenshot 2023-08-31 144610](https://github.com/Kishordevaragudi/Credit_card_default_prediction/assets/105155723/b3f49b82-e59d-4cd2-b7dc-524a8835e578)
 
 
 
